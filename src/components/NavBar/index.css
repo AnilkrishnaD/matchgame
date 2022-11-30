@@ -1,0 +1,41 @@
+.navbar-container {
+  background-color: #2c083a;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  max-height: 60px;
+}
+
+.logo {
+  height: 40px;
+  width: 130px;
+}
+
+.variables {
+  color: #fec653;
+  font-size: 25px;
+}
+
+.score {
+  color: white;
+  font-size: 23px;
+}
+
+.score-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.timer {
+  height: 25px;
+  width: 18px;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+.Timer-container {
+  display: flex;
+  flex-direction: row;
+}

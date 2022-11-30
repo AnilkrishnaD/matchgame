@@ -1,0 +1,43 @@
+.app-container {
+  min-height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  background-size: cover;
+}
+
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  background-size: cover;
+  display: flex;
+  padding: 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.math-image {
+  height: 290px;
+  width: 490px;
+  border-radius: 10px;
+}
+
+.tabs-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.thumbnails-container {
+  display: flex;
+  flex-direction: row;
+  max-width: 700px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.wincard-image {
+  height: 100px;
+  width: 170px;
+}
+
+.mainImage {
+  height: 190px;
+  width: 390px;
+}
